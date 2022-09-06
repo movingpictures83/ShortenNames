@@ -1,0 +1,2 @@
+Prefix plugins/ShortenNames/example
+Plugin ShortenNames inputfile abund.users.norm.csv outputfile abund.users.norm.shortened.csv
